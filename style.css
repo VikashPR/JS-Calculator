@@ -53,3 +53,7 @@ body{
 .calculator span.equal{
     background: #03b1ff;
 }
+.card {
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
